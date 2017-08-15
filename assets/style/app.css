@@ -182,3 +182,7 @@ footer .row {
     border-right: 1px solid #fff;
     min-height: 200px;
 }
+
+p a {
+    font-weight: bold;
+}
