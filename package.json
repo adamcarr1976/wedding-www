@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css",
+    "serve": "./node_modules/.bin/live-server public"
   },
   "1dependencies": {
     "autoprefixer": "^9.6.1",
